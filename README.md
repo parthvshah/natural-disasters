@@ -24,5 +24,3 @@ This project is being implemented using React Native and Firebase.
 2. Add config file with credentials to config/config.js
 3. Run ```react-native run ios``` for ios 
 4. Run ```react-native run android``` for android
-
-Check [React-Native Documentation](https://facebook.github.io/react-native/docs/getting-started) for more information
